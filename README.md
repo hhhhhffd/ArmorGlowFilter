@@ -10,6 +10,7 @@
 <p>
 <a href="https://github.com/hhhhhffd/ArmorGlowFilter/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/hhhhhffd/ArmorGlowFilter?style=flat-square"></a>
 <a href="https://github.com/hhhhhffd/ArmorGlowFilter/releases"><img alt="Release downloads" src="https://img.shields.io/github/downloads/hhhhhffd/ArmorGlowFilter/total?style=flat-square"></a>
+<a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/github/license/hhhhhffd/ArmorGlowFilter?style=flat-square"></a>
 </p>
 <p><a href="https://github.com/hhhhhffd/ArmorGlowFilter/releases">Download</a> · <a href="#architecture">Architecture</a> · <a href="#build">Build</a></p>
 <img src="docs/media/preview.png" alt="ArmorGlow Filter preview">
@@ -77,4 +78,4 @@ On Windows, run `gradlew.bat build`. The resulting JAR is in `build/libs/`.
 
 ## License
 
-Not specified; license terms are TBD.
+Licensed under the [MIT License](LICENSE).
