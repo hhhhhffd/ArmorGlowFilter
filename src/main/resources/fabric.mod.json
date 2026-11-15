@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "armorglow",
+  "version": "${version}",
+  "name": "ArmorGlow Filter",
+  "description": "Hide vanilla Glowing outlines on players wearing armor; leave the actual effect unchanged.",
+  "environment": "client",
+  "mixins": ["armorglow.client.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "=1.21.11",
+    "java": ">=21"
+  }
+}
